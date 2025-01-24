@@ -11,6 +11,6 @@ This repository contains a machine learning model to predict T20 cricket match s
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/username/t20-cricket-score-prediction.git
-cd t20-cricket-score-prediction
+git clone https://github.com/meshaak25/T20-cricket-match-score-prediction.git
+cd T20-cricket-match-score-prediction
 pip install -r requirements.txt
